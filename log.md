@@ -12,7 +12,7 @@
 
 **Today's Progress**: Built a simple yet challenging tip generator. The user provides three inputs: the total value of the bill, the tip percentage the user would like to give, and the number of people. The program will then provide the amount each person should pay, including the tip. 
     
-    I also added a hover feature to a data visualization with plotly concerning recurring earthquakes during 30 days. 
+I also added a hover feature to a data visualization with plotly concerning recurring earthquakes during 30 days. 
 
 **Thoughts:** It was really challenging to do the tip calculator, as you are asked to think in programming ways. But it was satisfying to see it running and calculating tips left and right!
 
