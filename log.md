@@ -8,3 +8,15 @@
 
 **Link to work:** [Band Name Generator](https://github.com/felipesebben/100-days-of-code/blob/master/001_band_name_generator/band_name_generator.py)
 
+### Day 2: March 4, 2002
+
+**Today's Progress**: Built a simple yet challenging tip generator. The user provides three inputs: the total value of the bill, the tip percentage the user would like to give, and the number of people. The program will then provide the amount each person should pay, including the tip. 
+    
+    I also added a hover feature to a data visualization with plotly concerning recurring earthquakes during 30 days. 
+
+**Thoughts:** It was really challenging to do the tip calculator, as you are asked to think in programming ways. But it was satisfying to see it running and calculating tips left and right!
+
+**Link to work:** 
+- [Tip Calculator](https://github.com/felipesebben/100-days-of-code/blob/master/002_tip_calculator/tip_calculator.py)
+- [Earthquake Mapping](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/16_downloading_data/eq_world_map.py)
+
