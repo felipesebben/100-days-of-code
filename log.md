@@ -38,7 +38,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to work**:
 - [Rock, Paper, or Scissors](https://github.com/felipesebben/100-days-of-code/blob/master/004_rock_paper_scissors/rock_paper_scissors.py)
 * * *
-**Day 5: March 6, 2022**
+***Day 5: March 6, 2022**
 
 **Today's Progress**: Built a password generator using for loop features. The user is asked to provide a given number of symbols, letters, and numbers, with which the program is supposed to provide a unique password. The program then stores the range of choices in three different variables, which will be used to provide a random group of characters using the `choice()` function in the module `random`. Then, given all the user's choices, the program must shuffle the three groups of characters to provide a harder password.
 
