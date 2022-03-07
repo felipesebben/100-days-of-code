@@ -46,3 +46,13 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Link to work**:
 - [Password Generator](https://github.com/felipesebben/100-days-of-code/blob/master/005_password_generator/password_generator.py)
+* * *
+### Day 6: March 7, 2022
+
+**Today's Progress**: Solved an escape the maze challenge, in which I was asked to provide an exit strategy for  a robot. Basically, through functions, `while` loops and conditionalities, you needed to guide the robot's oves according to eventual walls and clear paths. 
+
+**Thoughts**: It was a really nice way to learn more about `while` loops. You can see their usefulness when you need to loop through a bunch of commands without a pre-determined list or range of numbers, for instance. 
+
+**Link to work**:
+- [Maze Challenge](https://github.com/felipesebben/100-days-of-code/blob/master/006_escaping_the_maze/escape_the_maze.py)
+    - PS: the inbuilt functions are not avaliable. You can find the challenge [here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).
