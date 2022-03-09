@@ -6,7 +6,7 @@
 
 **Thoughts:** It was nice to review the basics of strings, variables, and logic. These are essential if I want to incorporate a real programming mindset. Logic is still an odd field to me. At the end, though, I managed to build the program in a few minutes with no need to resort to any external support.
 
-**Link to work:** [Band Name Generator](https://github.com/felipesebben/100-days-of-code/blob/master/001_band_name_generator/band_name_generator.py)
+**Link to Work:** [Band Name Generator](https://github.com/felipesebben/100-days-of-code/blob/master/001_band_name_generator/band_name_generator.py)
 * * *
 ### Day 2: March 3, 2022
 
@@ -16,7 +16,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Thoughts:** It was really challenging to do the tip calculator, as you are asked to think in programming ways. But it was satisfying to see it running and calculating tips left and right!
 
-**Link to work:** 
+**Link to Work:** 
 - [Tip Calculator](https://github.com/felipesebben/100-days-of-code/blob/master/002_tip_calculator/tip_calculator.py)
 - [Earthquake Mapping](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/16_downloading_data/eq_world_map.py)
 * * *
@@ -26,7 +26,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Thoughts**: It was nice to challenge myself by applying logical skills to create the game. It might seem like a simple project, yet you need to plan well ahead your conditionals if you want it to work properly!
 
-**Link to work**:
+**Link to Work**:
 - [Treasure Hunt Game](https://github.com/felipesebben/100-days-of-code/blob/master/003_treasure_hunt/treasure_island.py)
 * * *
 ### Day 4: March 5, 2022
@@ -35,7 +35,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Thoughts**: It was really nice to build this game. I felt that I was getting the logic of Python while I was building it, and as the days go on, it seems that you get more into this rationale! 
 
-**Link to work**:
+**Link to Work**:
 - [Rock, Paper, or Scissors](https://github.com/felipesebben/100-days-of-code/blob/master/004_rock_paper_scissors/rock_paper_scissors.py)
 * * *
 ### Day 5: March 6, 2022
@@ -44,7 +44,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Thoughts**: I really like these iteration exercises. They are quite logical and you can use these tools in many ways. One can easily think about using `for` loops as a way to automate similar calculations. The exercises were also very interesting, and worked very well as a complementary way to reinforce learning.
 
-**Link to work**:
+**Link to Work**:
 - [Password Generator](https://github.com/felipesebben/100-days-of-code/blob/master/005_password_generator/password_generator.py)
 * * *
 ### Day 6: March 7, 2022
@@ -53,7 +53,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Thoughts**: It was a really nice way to learn more about `while` loops. You can see their usefulness when you need to loop through a bunch of commands without a pre-determined list or range of numbers, for instance. 
 
-**Link to work**:
+**Link to Work**:
 - [Maze Challenge](https://github.com/felipesebben/100-days-of-code/blob/master/006_escaping_the_maze/escape_the_maze.py)
     - PS: the inbuilt functions are not avaliable. You can find the challenge [here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).
     * * *
@@ -64,6 +64,14 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Thoughts**: Seven days have passed by so fast! I must say it is challenging to keep up with the volume of work. But I'm confident that this hardwork will benefit me in the long run. I must sleep more, though.
 
-**Link to work**:
+**Link to Work**:
 - [Hangman Game](https://github.com/felipesebben/100-days-of-code/blob/master/007_hangman/hangman_final.py)
 - [SQL Videogame Queries](https://github.com/felipesebben/DA_videogames/blob/master/3_SQL_DEA.sql)
+* * *
+### Day 8: March 9, 2022
+**Today's Progress**: So far, I've built a caesar cipher. Basically, the user chooses whether he/she wants to encode or decode a given word or sentence that must be provided as an input. Then, a number of shifts in the alphabet must be also given, i.e. if shift equals 2, the encoded message will be provided with an alphabet that is moved two characters write, which means that a would be encrypted as c. The user can encode the message and, if he wants, he can also decode it: he/she must only provide the encrypted message and the number of shifts used in the original encoding.
+
+**Thoughts**: That was a challenging task. It feels sometimes that I will eventually get stuck in one of these projects. I feel compelled to move forward no matter what, a feeling that may not lead to positive outcomes everytime. Well, at, least we are reaching 10% of the course and I can tell that the learning curve is still not that steep! 
+
+**Link to Work**:
+[Caesar Cipher](https://github.com/felipesebben/100-days-of-code/blob/master/008_caesar_cipher/caesar_cipher.py)
