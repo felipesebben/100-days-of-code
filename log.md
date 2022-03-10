@@ -75,3 +75,17 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Link to Work**:
 [Caesar Cipher](https://github.com/felipesebben/100-days-of-code/blob/master/008_caesar_cipher/caesar_cipher.py)
+* * *
+### Day 9: March 10, 2022
+**Today's Progress**:
+- Built a silent auction program in python, in which the user could store as many bids made per individual. The project emphasized the use of dictionaries to store the user's input. After all bidders and their respective bids were stored, the program prints the name of the winner, together with his or her bid, which was the highest among the group.
+- Also built a series of visualizations based on data obtained from GitHub's API. I've learned how to access API's, store values into empty lists, and then plot a bar chart using plotly.
+- I have also using PgAdmin on a daily basis to explore a dataset on games and their respective scores. My idea is to see which consoles have had better scores. I intend to join this table with another with game ratings such as whether or not the game displays nudity and violence scenes etc. 
+- I studied Tableau calculations, including field calculations, table calculations, and quick calculations.
+- I also move forward with my 2018 Brazil election dataviz project in Tableau.
+
+**Thoughts**: Man, what a day! Lots of things covered. I liked building this silent auction program, as you must deal with pretty interesting python features. The rest was cool too, it was fun playing around plotly's methods, which are endless by the way! I just wish that I could build some nice visualizations faster.
+
+**Link to Work**: 
+- [Silent Auction](https://github.com/felipesebben/100-days-of-code/blob/master/009_silent_auction/blind_auction.py)
+
