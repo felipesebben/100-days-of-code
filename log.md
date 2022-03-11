@@ -56,7 +56,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [Maze Challenge](https://github.com/felipesebben/100-days-of-code/blob/master/006_escaping_the_maze/escape_the_maze.py)
     - PS: the inbuilt functions are not avaliable. You can find the challenge [here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).
-    * * *
+* * *
 ### Day 7: March 8, 2022
 **Today's Progress**: I've managed to build a hangman game in python! It was a 5-step process, in which I had to plan a workflow to be able to implement it. 
 - I also advanced on my Tableau course, though I find myself stuck in a particular calculation regarding conditionalities.
