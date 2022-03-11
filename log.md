@@ -90,7 +90,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [Silent Auction](https://github.com/felipesebben/100-days-of-code/blob/master/009_silent_auction/blind_auction.py)
 * * *
 ### Day 10: March 11, 2022
-**Today's Progress"":
+**Today's Progress**:
 - Built a calculator in python. The user is asked to provide a number, the type of operation he or she wants (add, subtract, multiply, or divide), and another number. The program will print the result of the operation, asking whether the user wants to do other operations on the answer. If so, the user can provide another number and operation. If not, the program restarts, asking the user to provide new numbers for a new calculation.
 
 **Thoughts**:
