@@ -97,5 +97,5 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - It was interesting to work with functions while building this program. You can do many things with less lines of code, which makes your coding more elegant and efficient. 
 
 **Link to Work**:
-[Calculator](https://github.com/felipesebben/100-days-of-code/blob/master/010_calculator/calculator.py)
+- [Calculator](https://github.com/felipesebben/100-days-of-code/blob/master/010_calculator/calculator.py)
  
