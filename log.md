@@ -103,7 +103,8 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Today's Progress**:
 - Built a Blackjack game in python. Just as the actual game, the user chooses to play the game. If he or she indeed does, cards are drawn to the user and to the computer. Then, it is up to him/her to pick another card or see if his/her score is higher than the computer's. Once the game is over, the user can choose to start another one or to finish playing.
 
-**Thoughts**: That was the most challenging project that I've done until now. I had to use many python features, such as for and while loops, functions, conditional statements, indentation, and so on. It was really overwhelming, but it felt nice completing the challenge. Obviously I had to use hints and solutions, yet I believe that if you use these resources actively, i.e. really trying to understand the code and not just copying it, you learn a great deal out of it.
+**Thoughts**: 
+- That was the most challenging project that I've done until now. I had to use many python features, such as for and while loops, functions, conditional statements, indentation, and so on. It was really overwhelming, but it felt nice completing the challenge. Obviously I had to use hints and solutions, yet I believe that if you use these resources actively, i.e. really trying to understand the code and not just copying it, you learn a great deal out of it.
 
 **Link to Work**:
 [Blackjack Game](https://github.com/felipesebben/100-days-of-code/blob/master/011_blackjack/blackjack.py)
