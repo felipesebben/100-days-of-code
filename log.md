@@ -109,3 +109,18 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 [Blackjack Game](https://github.com/felipesebben/100-days-of-code/blob/master/011_blackjack/blackjack.py)
 * * *
+### Day 12: March 14, 2022
+**Today's Progress**:
+- Studied scope concepts in python, both locally and globally. This was a prerequiste for completing the final project of day 12, in which you're supposed to build a number guessing game.
+- Learned more about exploring APIs with python's request module, which allows you to explore and extract data that is automatically generated. Very, very useful!
+- Did a DEA on a IGN database of game scores. Actually, just added more queries.
+- Studied mapbox studio to develop a custom map about the Russia-Ukraine conflict.
+
+**Thoughts**: 
+- This course on 100 days of python feels overwhelming sometimes. You feel like you should follow exactly what the teacher says, but if you do so, it may take you like 300 days to finish it! Python is just one of my interests, so I guess I should take the challenges in a lighter mood. Anyway, I feel like I'm moving forward, which is nice!
+- SQL is an area where I don't really know where I'm going - I just make questions, expecting to get better at programming.
+- Tableau is my great hope. I really want to get better at it!
+
+**Link to Work**:
+- [DEA with SQL](https://github.com/felipesebben/DA_videogames/blob/master/3_SQL_DEA.sql)
+- [Working with APIs](https://github.com/felipesebben/py_crash_course_exercises/tree/master/project_2-data_visualization/17_working_with_APIs)
