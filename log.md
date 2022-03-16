@@ -124,3 +124,21 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [DEA with SQL](https://github.com/felipesebben/DA_videogames/blob/master/3_SQL_DEA.sql)
 - [Working with APIs](https://github.com/felipesebben/py_crash_course_exercises/tree/master/project_2-data_visualization/17_working_with_APIs)
+* * *
+### Day 12: March 14, 2022
+**Today's Progress**:
+- Finished a number guessing game in python. Out of a random number between a 1 to 100 range, the user had to guess numbers; according to the defined level - 'easy' or 'hard' -, the user had either 10 or 5 attempts to guess it. As guesses were stored as input, the program would tell the user whether the number was too low, too high, or correct, which would end the game.
+- Finished my 3rd Tableau course (3 out of 5) after I plotted a dual axis map, which contained sales and profit data geographically distributed using size and color to indicate values.
+- Almost finished creating my custom Mapbox map for my upcoming Tableau project on the current Russia-Ukraine conflict.
+- Explored an IGN videogame dataset with PostgreSQL.
+- Studied debugging in python.
+
+**Thoughts**:
+- Whew, what a day. Well, building the game from scratch was really challenging (as everything involving python, I guess). Even though I did not build a fully functioning game, I was quite happy with how far I've managed to get. These exercises help you build that logical foundation that I really miss right now.
+- The dataviz part is going well. I feel comfortable dealing with this area, but I want to progress even more.
+- SQL is an area where I might need to take a look on how to get more skills. I can make queries all day long, but is it enough? So far, I feel like I'm getting better at it.
+
+**Link to Work**:
+- [Number Guessing](https://github.com/felipesebben/100-days-of-code/blob/master/012_number_guessing/guess_number.py)
+- [Debugging Exercises](https://github.com/felipesebben/100-days-of-code/blob/master/013_debugging/debugging.py)
+
