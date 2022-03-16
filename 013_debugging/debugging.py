@@ -40,6 +40,7 @@ print(total_words)
 
 # 6. Use a debugger.
 
+
 def mutate(a_list):
     b_list = []
     for item in a_list:
