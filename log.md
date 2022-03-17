@@ -125,7 +125,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [DEA with SQL](https://github.com/felipesebben/DA_videogames/blob/master/3_SQL_DEA.sql)
 - [Working with APIs](https://github.com/felipesebben/py_crash_course_exercises/tree/master/project_2-data_visualization/17_working_with_APIs)
 * * *
-### Day 12: March 14, 2022
+### Day 13: March 15, 2022
 **Today's Progress**:
 - Finished a number guessing game in python. Out of a random number between a 1 to 100 range, the user had to guess numbers; according to the defined level - 'easy' or 'hard' -, the user had either 10 or 5 attempts to guess it. As guesses were stored as input, the program would tell the user whether the number was too low, too high, or correct, which would end the game.
 - Finished my 3rd Tableau course (3 out of 5) after I plotted a dual axis map, which contained sales and profit data geographically distributed using size and color to indicate values.
@@ -141,4 +141,20 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [Number Guessing](https://github.com/felipesebben/100-days-of-code/blob/master/012_number_guessing/guess_number.py)
 - [Debugging Exercises](https://github.com/felipesebben/100-days-of-code/blob/master/013_debugging/debugging.py)
+* * *
+### Day 14: March 16, 2022
+**Today's Progress**:
+- Learned more about debugging techniques in Python.
+- Started building a Higher Lower game in Python. Basically, the user is given two random Instagram accounts and they must choose which one has more followers. If the guess is right, another account replaces the lower one, and the user must guess once more, and so on; if the guess is wrong, game over.
+- Improved a program designed to access GitHub's repo API, storing tasks within functions. Also, learned how to develop a testing program that makes sure that what is being printed is the actual data.
+- Explored two videogame datasets with Postgre. Learned how to do nested conditionalities and add a new column based on the average of other two columns.
+- Finished creating a custom map for my Tableau visualization on the current Russian-Ukrainian conflict. Managed to set the countries labels on the European area, overcoming the issue with Russia being labeled on the center of the country and thus making it too far from Ukraine. Also, managed to set the circles in the map farther from labels, making it more readable. Also, created a nice shape as a refugee symbol.
+- Concluded my 3rd course on Tableau!
 
+**Thoughts**:
+- Too many. I'm glad that I've been improving my coding skills. Slowly, I feel like I can think how to solve issues in with a programming mindset. I'm a bit lost when it comes to SQL, but I learn something everyday. Finally, my Tableau skills are improving a lot! I hope I can finish my dashboard by the weekend.
+
+**Link to Work**:
+- [python_repos_revised](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/python_repos_revised.py)
+- [python_repos_testing](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/test_program.py)
+* * *
