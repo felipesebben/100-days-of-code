@@ -158,3 +158,16 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [python_repos_revised](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/python_repos_revised.py)
 - [python_repos_testing](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/test_program.py)
 * * *
+### Day 14: March 16, 2022
+**Today's Progress**:
+- Finished building a Higher Lower game in python. 
+- Explored GitHub's API with `requests` module. Started exploring repos whose topics contain Ukraine as content, sorted by highest star count.
+- Learned more about writing and reading big files with pandas.
+- Explored more of the videogame datasets with SQL. Learned a few more tricks on selecting data with more precision.
+- Did some work in Tableau by learning about storytelling, the importance of audience, and so on.
+**Thoughts**:
+- Not many thoughts today. It was a long day, and I've studied a lot. I'm hungry and I shall eat!
+
+**Link to Work**:
+[Higher Lower Game](https://github.com/felipesebben/100-days-of-code/blob/master/014_higher_lower/higher_lower.py)
+* * *
