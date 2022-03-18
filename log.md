@@ -158,7 +158,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [python_repos_revised](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/python_repos_revised.py)
 - [python_repos_testing](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/test_program.py)
 * * *
-### Day 14: March 16, 2022
+### Day 15: March 17, 2022
 **Today's Progress**:
 - Finished building a Higher Lower game in python. 
 - Explored GitHub's API with `requests` module. Started exploring repos whose topics contain Ukraine as content, sorted by highest star count.
@@ -170,4 +170,16 @@ I also added a hover feature to a data visualization with plotly concerning recu
 
 **Link to Work**:
 [Higher Lower Game](https://github.com/felipesebben/100-days-of-code/blob/master/014_higher_lower/higher_lower.py)
+* * *
+## Day 16: March 18, 2022
+**Today's Progress**:
+- Finished building a Coffee Machine game in python. 
+- Explored GitHub's API with `requests` module a little bit more. Started exploring repos whose topics contain Ukraine as content, sorted by highest star count. Still, struggled to plot graphs different than bar charts. Must study plotly's docs.
+- Studied SQL by answering precise queries from a really good book. Learned a few more tricks on selecting data with more precision.
+- Tried to blend two spatial datasets in Tableau to visualize different phenomena in the same map. Very complicated.
+**Thoughts**:
+- Very frustrating day. Spent all day studying and it seems that I went nowhere. Well, I guess there are days where you feel like your just stuck in the mud. At least it's the weekend!
+
+**Link to Work**:
+[Coffee Machine](https://github.com/felipesebben/100-days-of-code/blob/master/015_coffee_machine/coffee_machine.py)
 * * *
