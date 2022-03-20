@@ -165,11 +165,12 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - Learned more about writing and reading big files with pandas.
 - Explored more of the videogame datasets with SQL. Learned a few more tricks on selecting data with more precision.
 - Did some work in Tableau by learning about storytelling, the importance of audience, and so on.
-**Thoughts**:
+
+- **Thoughts**:
 - Not many thoughts today. It was a long day, and I've studied a lot. I'm hungry and I shall eat!
 
 **Link to Work**:
-[Higher Lower Game](https://github.com/felipesebben/100-days-of-code/blob/master/014_higher_lower/higher_lower.py)
+- [Higher Lower Game](https://github.com/felipesebben/100-days-of-code/blob/master/014_higher_lower/higher_lower.py)
 * * *
 ## Day 16: March 18, 2022
 **Today's Progress**:
@@ -177,18 +178,34 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - Explored GitHub's API with `requests` module a little bit more. Started exploring repos whose topics contain Ukraine as content, sorted by highest star count. Still, struggled to plot graphs different than bar charts. Must study plotly's docs.
 - Studied SQL by answering precise queries from a really good book. Learned a few more tricks on selecting data with more precision.
 - Tried to blend two spatial datasets in Tableau to visualize different phenomena in the same map. Very complicated.
+
 **Thoughts**:
 - Very frustrating day. Spent all day studying and it seems that I went nowhere. Well, I guess there are days where you feel like your just stuck in the mud. At least it's the weekend!
 
 **Link to Work**:
-[Coffee Machine](https://github.com/felipesebben/100-days-of-code/blob/master/015_coffee_machine/coffee_machine.py)
+- [Coffee Machine](https://github.com/felipesebben/100-days-of-code/blob/master/015_coffee_machine/coffee_machine.py)
 * * *
 ## Day 17: March 19, 2022
 **Today's Progress**:
-- Studied Object Oriented Programming (OOP) in Python. Used what I've learnt and rebuilt the Coffee Machine program using classes and methods.
+- Studied Object-Oriented Programming (OOP) in Python. Used what I've learnt and rebuilt the Coffee Machine program using classes and methods.
 - Managed to plot two different sets of data in the same map in Tableau.
+
 **Thoughts**:
-- OOP is really interesting. You can save a lot of code lines with it, and your program looks really elegant and functional. I still need to study more and figure out how to adapt other programs with this line of thinking. 
+- OOP is fascinating. You can save a lot of code lines with it, and your program looks really elegant and functional. I still need to study more and figure out how to adapt other programs with this line of thinking. 
 - It was such a relief for me to be able to plot these data in the same map chart! I still want to add some more data on other parts of Ukraine, such as Luhanks and Donetsk, yet that is something for later on.
+
 **Link to Work**:
-[Coffee Machine Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/016_object_oriented_programming/main.py)
+- [Coffee Machine Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/016_object_oriented_programming/main.py)
+* * *
+## Day 18: March 20, 2022
+**Today's Progress**:
+- Studied classes, methods, and how to add attributes as parameters to the latter. Following the OOP logic,
+learned how to store activities within these concepts, which makes your code more elegant and lighter.
+- Built a Quiz Project, in which the user is asked to answer 'True' or 'False' to random trivia facts.
+
+ **Thoughts**:
+- It was nice to apply what I have learned in terms of OOPs. I still struggle to understand the logic of it, that is, to know what to use, when to use. From tomorrow onwards, I'll review one former day each day, taking notes and redoing some of the exercises and projects.
+That will surely help me.
+
+**Link to Work**:
+- [Quiz Project](https://github.com/felipesebben/100-days-of-code/blob/master/017_quiz_project_creating_classes/main.py)
