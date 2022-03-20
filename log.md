@@ -183,3 +183,12 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 [Coffee Machine](https://github.com/felipesebben/100-days-of-code/blob/master/015_coffee_machine/coffee_machine.py)
 * * *
+## Day 17: March 19, 2022
+**Today's Progress**:
+- Studied Object Oriented Programming (OOP) in Python. Used what I've learnt and rebuilt the Coffee Machine program using classes and methods.
+- Managed to plot two different sets of data in the same map in Tableau.
+**Thoughts**:
+- OOP is really interesting. You can save a lot of code lines with it, and your program looks really elegant and functional. I still need to study more and figure out how to adapt other programs with this line of thinking. 
+- It was such a relief for me to be able to plot these data in the same map chart! I still want to add some more data on other parts of Ukraine, such as Luhanks and Donetsk, yet that is something for later on.
+**Link to Work**:
+[Coffee Machine Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/016_object_oriented_programming/main.py)
