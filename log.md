@@ -209,3 +209,18 @@ That will surely help me.
 
 **Link to Work**:
 - [Quiz Project](https://github.com/felipesebben/100-days-of-code/blob/master/017_quiz_project_creating_classes/main.py)
+* * *
+## Day 19: March 21, 2022
+**Today's Progress**:
+- Studied classes and methods using the `turtle` package, which uses Graphical User Interface (GUI) to visualize coding. Having said that, created a million dollar work of art with this lovely package (see link to work!) 
+- Studied further steps towards an effective storytelling with Tableau. 
+- Practiced SQL queries.
+- Managed to create two waffle charts in Tableau.
+- Studied Statistics - frequency distribution (absolute and relative)
+
+**Thoughts**:
+- It was a rather productive day. Although `python` often feels like an unsurmountable challenge, I must also concede that coding feels lighter and more intuitive as days go by. My fears of while and for loops are slowly fading away, giving way to newer ones, of course!
+
+**Link to Work**:
+- [Hirst Painting](https://github.com/felipesebben/100-days-of-code/blob/master/018_turtle_gui/hirst_painting.py)
+* * *
