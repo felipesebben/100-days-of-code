@@ -1,55 +1,66 @@
-# 100 Days Of Code - Log
+# **100 Days Of Code - Log**
 
-### Day 1: March 2, 2022 
+## **Day 1: March 2, 2022** 
 
-**Today's Progress**: Built a simple band name generator program on Python. The user is asked to provide the name of the city in which he or she grew up and the name of his or her pet. The program will store these values and provide a suggestion based on these two inputs.
+**Today's Progress**: 
+- Built a simple band name generator program on Python. The user is asked to provide the name of the city in which he or she grew up and the name of his or her pet. The program will store these values and provide a suggestion based on these two inputs.
 
-**Thoughts:** It was nice to review the basics of strings, variables, and logic. These are essential if I want to incorporate a real programming mindset. Logic is still an odd field to me. At the end, though, I managed to build the program in a few minutes with no need to resort to any external support.
+**Thoughts:** 
+- It was nice to review the basics of strings, variables, and logic. These are essential if I want to incorporate a real programming mindset. Logic is still an odd field to me. At the end, though, I managed to build the program in a few minutes with no need to resort to any external support.
 
 **Link to Work:** [Band Name Generator](https://github.com/felipesebben/100-days-of-code/blob/master/001_band_name_generator/band_name_generator.py)
 * * *
-### Day 2: March 3, 2022
+## **Day 2: March 3, 2022**
 
-**Today's Progress**: Built a simple yet challenging tip generator. The user provides three inputs: the total value of the bill, the tip percentage the user would like to give, and the number of people. The program will then provide the amount each person should pay, including the tip. 
+**Today's Progress**: 
+- Built a simple yet challenging tip generator. The user provides three inputs: the total value of the bill, the tip percentage the user would like to give, and the number of people. The program will then provide the amount each person should pay, including the tip. 
     
 I also added a hover feature to a data visualization with plotly concerning recurring earthquakes during 30 days. 
 
-**Thoughts:** It was really challenging to do the tip calculator, as you are asked to think in programming ways. But it was satisfying to see it running and calculating tips left and right!
+**Thoughts:** 
+- It was really challenging to do the tip calculator, as you are asked to think in programming ways. But it was satisfying to see it running and calculating tips left and right!
 
 **Link to Work:** 
 - [Tip Calculator](https://github.com/felipesebben/100-days-of-code/blob/master/002_tip_calculator/tip_calculator.py)
 - [Earthquake Mapping](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/16_downloading_data/eq_world_map.py)
 * * *
-### Day 3: March 4, 2022
+##  **Day 3: March 4, 2022**
 
-**Today's Progress**: Built a fun yet challenging tresure hunt game which tested my skills with conditional elements. Basically, the user is asked to make choices along a storyline. Each question leads you to another question or the game is over in case you make the wrong choice. 
+**Today's Progress**:
+- Built a fun yet challenging tresure hunt game which tested my skills with conditional elements. Basically, the user is asked to make choices along a storyline. Each question leads you to another question or the game is over in case you make the wrong choice. 
 
-**Thoughts**: It was nice to challenge myself by applying logical skills to create the game. It might seem like a simple project, yet you need to plan well ahead your conditionals if you want it to work properly!
+**Thoughts**: 
+- It was nice to challenge myself by applying logical skills to create the game. It might seem like a simple project, yet you need to plan well ahead your conditionals if you want it to work properly!
 
 **Link to Work**:
 - [Treasure Hunt Game](https://github.com/felipesebben/100-days-of-code/blob/master/003_treasure_hunt/treasure_island.py)
 * * *
-### Day 4: March 5, 2022
+##  **Day 4: March 5, 2022**
 
-**Today's Progress**: Built a series of programs aiming at understanding lists, random numbers and conditionalities. Apart from a treasure map and a coin toss game, built a rock paper scissors game, in which the user plays it with the computer. The user provides a number between 0 and 2, which is stored as either as rock, scissor, or paper. The computer generates a random number between this same range, which must be then stored as the computer's choice between the three possible choices. Then, the two choices are compared, and using conditional elements, the outcome is provided either as a loss, a win or a draw. 
+**Today's Progress**: 
+- Built a series of programs aiming at understanding lists, random numbers and conditionalities. Apart from a treasure map and a coin toss game, built a rock paper scissors game, in which the user plays it with the computer. The user provides a number between 0 and 2, which is stored as either as rock, scissor, or paper. The computer generates a random number between this same range, which must be then stored as the computer's choice between the three possible choices. Then, the two choices are compared, and using conditional elements, the outcome is provided either as a loss, a win or a draw. 
 
-**Thoughts**: It was really nice to build this game. I felt that I was getting the logic of Python while I was building it, and as the days go on, it seems that you get more into this rationale! 
+**Thoughts**: 
+- It was really nice to build this game. I felt that I was getting the logic of Python while I was building it, and as the days go on, it seems that you get more into this rationale! 
 
 **Link to Work**:
 - [Rock, Paper, or Scissors](https://github.com/felipesebben/100-days-of-code/blob/master/004_rock_paper_scissors/rock_paper_scissors.py)
 * * *
-### Day 5: March 6, 2022
+## **Day 5: March 6, 2022**
 
-**Today's Progress**: Built a password generator using for loop features. The user is asked to provide a given number of symbols, letters, and numbers, with which the program is supposed to provide a unique password. The program then stores the range of choices in three different variables, which will be used to provide a random group of characters using the `choice()` function in the module `random`. Then, given all the user's choices, the program must shuffle the three groups of characters to provide a harder password.
+**Today's Progress**: 
+- Built a password generator using for loop features. The user is asked to provide a given number of symbols, letters, and numbers, with which the program is supposed to provide a unique password. The program then stores the range of choices in three different variables, which will be used to provide a random group of characters using the `choice()` function in the module `random`. Then, given all the user's choices, the program must shuffle the three groups of characters to provide a harder password.
 
-**Thoughts**: I really like these iteration exercises. They are quite logical and you can use these tools in many ways. One can easily think about using `for` loops as a way to automate similar calculations. The exercises were also very interesting, and worked very well as a complementary way to reinforce learning.
+**Thoughts**: 
+- I really like these iteration exercises. They are quite logical and you can use these tools in many ways. One can easily think about using `for` loops as a way to automate similar calculations. The exercises were also very interesting, and worked very well as a complementary way to reinforce learning.
 
 **Link to Work**:
 - [Password Generator](https://github.com/felipesebben/100-days-of-code/blob/master/005_password_generator/password_generator.py)
 * * *
-### Day 6: March 7, 2022
+## **Day 6: March 7, 2022**
 
-**Today's Progress**: Solved an escape the maze challenge, in which I was asked to provide an exit strategy for  a robot. Basically, through functions, `while` loops and conditionalities, you needed to guide the robot's oves according to eventual walls and clear paths. 
+**Today's Progress**: 
+- Solved an escape the maze challenge, in which I was asked to provide an exit strategy for  a robot. Basically, through functions, `while` loops and conditionalities, you needed to guide the robot's oves according to eventual walls and clear paths. 
 
 **Thoughts**: It was a really nice way to learn more about `while` loops. You can see their usefulness when you need to loop through a bunch of commands without a pre-determined list or range of numbers, for instance. 
 
@@ -57,8 +68,9 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [Maze Challenge](https://github.com/felipesebben/100-days-of-code/blob/master/006_escaping_the_maze/escape_the_maze.py)
     - PS: the inbuilt functions are not avaliable. You can find the challenge [here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).
 * * *
-### Day 7: March 8, 2022
-**Today's Progress**: I've managed to build a hangman game in python! It was a 5-step process, in which I had to plan a workflow to be able to implement it. 
+##  **Day 7: March 8, 2022**
+**Today's Progress**: 
+- I've managed to build a hangman game in python! It was a 5-step process, in which I had to plan a workflow to be able to implement it. 
 - I also advanced on my Tableau course, though I find myself stuck in a particular calculation regarding conditionalities.
 - I have also done some SQL queries on a videogames dataset. I have so far managed to learn more about number of releases per year according to each console. I am trying to get unique releases for each console, but it is not as easy as I thought!
 
@@ -68,15 +80,17 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [Hangman Game](https://github.com/felipesebben/100-days-of-code/blob/master/007_hangman/hangman_final.py)
 - [SQL Videogame Queries](https://github.com/felipesebben/DA_videogames/blob/master/3_SQL_DEA.sql)
 * * *
-### Day 8: March 9, 2022
-**Today's Progress**: So far, I've built a caesar cipher. Basically, the user chooses whether he/she wants to encode or decode a given word or sentence that must be provided as an input. Then, a number of shifts in the alphabet must be also given, i.e. if shift equals 2, the encoded message will be provided with an alphabet that is moved two characters write, which means that a would be encrypted as c. The user can encode the message and, if he wants, he can also decode it: he/she must only provide the encrypted message and the number of shifts used in the original encoding.
+##  **Day 8: March 9, 2022**
+**Today's Progress**: 
+- So far, I've built a caesar cipher. Basically, the user chooses whether he/she wants to encode or decode a given word or sentence that must be provided as an input. Then, a number of shifts in the alphabet must be also given, i.e. if shift equals 2, the encoded message will be provided with an alphabet that is moved two characters write, which means that a would be encrypted as c. The user can encode the message and, if he wants, he can also decode it: he/she must only provide the encrypted message and the number of shifts used in the original encoding.
 
-**Thoughts**: That was a challenging task. It feels sometimes that I will eventually get stuck in one of these projects. I feel compelled to move forward no matter what, a feeling that may not lead to positive outcomes everytime. Well, at, least we are reaching 10% of the course and I can tell that the learning curve is still not that steep! 
+**Thoughts**: 
+- That was a challenging task. It feels sometimes that I will eventually get stuck in one of these projects. I feel compelled to move forward no matter what, a feeling that may not lead to positive outcomes everytime. Well, at, least we are reaching 10% of the course and I can tell that the learning curve is still not that steep! 
 
 **Link to Work**:
 [Caesar Cipher](https://github.com/felipesebben/100-days-of-code/blob/master/008_caesar_cipher/caesar_cipher.py)
 * * *
-### Day 9: March 10, 2022
+##  **Day 9: March 10, 2022**
 **Today's Progress**:
 - Built a silent auction program in python, in which the user could store as many bids made per individual. The project emphasized the use of dictionaries to store the user's input. After all bidders and their respective bids were stored, the program prints the name of the winner, together with his or her bid, which was the highest among the group.
 - Also built a series of visualizations based on data obtained from GitHub's API. I've learned how to access API's, store values into empty lists, and then plot a bar chart using plotly.
@@ -89,7 +103,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**: 
 - [Silent Auction](https://github.com/felipesebben/100-days-of-code/blob/master/009_silent_auction/blind_auction.py)
 * * *
-### Day 10: March 11, 2022
+## **Day 10: March 11, 2022**
 **Today's Progress**:
 - Built a calculator in python. The user is asked to provide a number, the type of operation he or she wants (add, subtract, multiply, or divide), and another number. The program will print the result of the operation, asking whether the user wants to do other operations on the answer. If so, the user can provide another number and operation. If not, the program restarts, asking the user to provide new numbers for a new calculation.
 
@@ -99,7 +113,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [Calculator](https://github.com/felipesebben/100-days-of-code/blob/master/010_calculator/calculator.py)
  * * *
-### Day 11: March 13, 2022
+## **Day 11: March 13, 2022**
 **Today's Progress**:
 - Built a Blackjack game in python. Just as the actual game, the user chooses to play the game. If he or she indeed does, cards are drawn to the user and to the computer. Then, it is up to him/her to pick another card or see if his/her score is higher than the computer's. Once the game is over, the user can choose to start another one or to finish playing.
 
@@ -109,7 +123,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 [Blackjack Game](https://github.com/felipesebben/100-days-of-code/blob/master/011_blackjack/blackjack.py)
 * * *
-### Day 12: March 14, 2022
+## **Day 12: March 14, 2022**
 **Today's Progress**:
 - Studied scope concepts in python, both locally and globally. This was a prerequiste for completing the final project of day 12, in which you're supposed to build a number guessing game.
 - Learned more about exploring APIs with python's request module, which allows you to explore and extract data that is automatically generated. Very, very useful!
@@ -125,7 +139,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [DEA with SQL](https://github.com/felipesebben/DA_videogames/blob/master/3_SQL_DEA.sql)
 - [Working with APIs](https://github.com/felipesebben/py_crash_course_exercises/tree/master/project_2-data_visualization/17_working_with_APIs)
 * * *
-### Day 13: March 15, 2022
+## **Day 13: March 15, 2022**
 **Today's Progress**:
 - Finished a number guessing game in python. Out of a random number between a 1 to 100 range, the user had to guess numbers; according to the defined level - 'easy' or 'hard' -, the user had either 10 or 5 attempts to guess it. As guesses were stored as input, the program would tell the user whether the number was too low, too high, or correct, which would end the game.
 - Finished my 3rd Tableau course (3 out of 5) after I plotted a dual axis map, which contained sales and profit data geographically distributed using size and color to indicate values.
@@ -142,7 +156,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [Number Guessing](https://github.com/felipesebben/100-days-of-code/blob/master/012_number_guessing/guess_number.py)
 - [Debugging Exercises](https://github.com/felipesebben/100-days-of-code/blob/master/013_debugging/debugging.py)
 * * *
-### Day 14: March 16, 2022
+## **Day 14: March 16, 2022**
 **Today's Progress**:
 - Learned more about debugging techniques in Python.
 - Started building a Higher Lower game in Python. Basically, the user is given two random Instagram accounts and they must choose which one has more followers. If the guess is right, another account replaces the lower one, and the user must guess once more, and so on; if the guess is wrong, game over.
@@ -158,7 +172,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 - [python_repos_revised](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/python_repos_revised.py)
 - [python_repos_testing](https://github.com/felipesebben/py_crash_course_exercises/blob/master/project_2-data_visualization/17_working_with_APIs/test_program.py)
 * * *
-### Day 15: March 17, 2022
+## **Day 15: March 17, 2022**
 **Today's Progress**:
 - Finished building a Higher Lower game in python. 
 - Explored GitHub's API with `requests` module. Started exploring repos whose topics contain Ukraine as content, sorted by highest star count.
@@ -172,7 +186,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [Higher Lower Game](https://github.com/felipesebben/100-days-of-code/blob/master/014_higher_lower/higher_lower.py)
 * * *
-## Day 16: March 18, 2022
+## **Day 16: March 18, 2022**
 **Today's Progress**:
 - Finished building a Coffee Machine game in python. 
 - Explored GitHub's API with `requests` module a little bit more. Started exploring repos whose topics contain Ukraine as content, sorted by highest star count. Still, struggled to plot graphs different than bar charts. Must study plotly's docs.
@@ -185,7 +199,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [Coffee Machine](https://github.com/felipesebben/100-days-of-code/blob/master/015_coffee_machine/coffee_machine.py)
 * * *
-## Day 17: March 19, 2022
+## **Day 17: March 19, 2022**
 **Today's Progress**:
 - Studied Object-Oriented Programming (OOP) in Python. Used what I've learnt and rebuilt the Coffee Machine program using classes and methods.
 - Managed to plot two different sets of data in the same map in Tableau.
@@ -197,7 +211,7 @@ I also added a hover feature to a data visualization with plotly concerning recu
 **Link to Work**:
 - [Coffee Machine Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/016_object_oriented_programming/main.py)
 * * *
-## Day 18: March 20, 2022
+## **Day 18: March 20, 2022**
 **Today's Progress**:
 - Studied classes, methods, and how to add attributes as parameters to the latter. Following the OOP logic,
 learned how to store activities within these concepts, which makes your code more elegant and lighter.
@@ -210,7 +224,7 @@ That will surely help me.
 **Link to Work**:
 - [Quiz Project](https://github.com/felipesebben/100-days-of-code/blob/master/017_quiz_project_creating_classes/main.py)
 * * *
-## Day 19: March 21, 2022
+## **Day 19: March 21, 2022**
 **Today's Progress**:
 - Studied classes and methods using the `turtle` package, which uses Graphical User Interface (GUI) to visualize coding. Having said that, created a million dollar work of art with this lovely package (see link to work!) 
 - Studied further steps towards an effective storytelling with Tableau. 
@@ -223,4 +237,21 @@ That will surely help me.
 
 **Link to Work**:
 - [Hirst Painting](https://github.com/felipesebben/100-days-of-code/blob/master/018_turtle_gui/hirst_painting.py)
+* * *
+## **Day 20: March 22, 2022**
+**Today's Progress**:
+- Studied higher order functions and instances in python. Used these concepts to build an Etch-a-Sketch program using the `turtle` package. Basically, using it's methods and classes, you set the GUI to reproduce a dotted, random-colorized picture, which resembles one of these overpriced pieces of contemporary art.
+- Studied storytelling and data preparation in `Tableau`. Learned about the importance of planning ahead how to display data and not to disregard the audience and the stakeholders involved.
+- Learned new calculations in `SQL` using a videogame database. 
+- Improved the Avocado Analytics dashboard, built using Python's `dash` package. Added user interface and the `dcc.components` function.
+- Improved my two dataviz on Ukraine and the 2018 Brazilian presidential elections. Overcame difficult challenges, specially concerning the tile map of Brazil; here, I've managed to transform each tile in a stacked bar of voting percentages.
+- Studied `git`'s merging functions.
+
+**Thoughts**:
+- That was a rather productive day, nothing to complain.
+- Tomorrow, I need to continue working on these two visualizations, as I'm making great progress. I need to study statistics, do SQL exercises, and, if possible, finish the `pandas` course on writing and reading files.
+
+**Link to Work**:
+- [Etch-a-Sketch](https://github.com/felipesebben/100-days-of-code/blob/master/019_instances_state_higher_order_functions/etch_a_sketch.py)
+- [Turtle Race](https://github.com/felipesebben/100-days-of-code/blob/master/019_instances_state_higher_order_functions/turtle_race.py)
 * * *
