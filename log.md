@@ -255,3 +255,16 @@ That will surely help me.
 - [Etch-a-Sketch](https://github.com/felipesebben/100-days-of-code/blob/master/019_instances_state_higher_order_functions/etch_a_sketch.py)
 - [Turtle Race](https://github.com/felipesebben/100-days-of-code/blob/master/019_instances_state_higher_order_functions/turtle_race.py)
 * * *
+## **Day 21: March 22, 2022**
+**Today's Progress**:
+- Started building a snake game in Python.
+- Studied SQL queries.
+- Advanced on my 2018 Elections project by plotting maps with deeper levels of detail.
+- Studied statistics. Learned how to plot a histogram after creating a set of absolute frequencies given a number of intervals.
+
+**Thoughts**:
+- Nothing to say. A good day.
+
+**Link to Work**:
+- [Snake Game - Part 1](https://github.com/felipesebben/100-days-of-code/blob/master/020_snake_game/main.py)
+***
