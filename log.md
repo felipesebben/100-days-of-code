@@ -255,7 +255,7 @@ That will surely help me.
 - [Etch-a-Sketch](https://github.com/felipesebben/100-days-of-code/blob/master/019_instances_state_higher_order_functions/etch_a_sketch.py)
 - [Turtle Race](https://github.com/felipesebben/100-days-of-code/blob/master/019_instances_state_higher_order_functions/turtle_race.py)
 * * *
-## **Day 21: March 22, 2022**
+## **Day 21: March 23, 2022**
 **Today's Progress**:
 - Started building a snake game in Python.
 - Studied SQL queries.
