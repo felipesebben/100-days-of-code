@@ -268,3 +268,19 @@ That will surely help me.
 **Link to Work**:
 - [Snake Game - Part 1](https://github.com/felipesebben/100-days-of-code/blob/master/020_snake_game/main.py)
 ***
+## **Day 22: March 24, 2022**
+**Today's Progress**:
+- Finished building the snake game in Python.
+- Tried to find percentage values in SQL between two sets of categories (not that easy).
+- Studied storytelling with Tableau.
+- Studied merging conflicting branches in git.
+- Finished my avocado analytics dashboard, built with Python's `dash` and put it online using `heroku`.
+- Added more in-depth functionalities to my tableau viz on Brazilian elections.
+
+**Thoughts**:
+- It feels like despite doing so much, I did so little. But, in a second thought, I guess I am being too harsh with myself. Good things take time. For instance, I've finished one program and one app in a single day - that's gotta count for something, huh? I guess my Tableau skills are what worry me the most. I think too much and do too little. Gotta just do something and deliver something. Oh well, tomorrow is another day.
+
+**Link to Work**:
+- [Snake Game - Final Version](https://github.com/felipesebben/100-days-of-code/blob/master/021_snake_game_pt2/main.py)
+- [Avocado Analytics](https://frs-avocado-analysis.herokuapp.com/)
+***
