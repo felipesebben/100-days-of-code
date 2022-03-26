@@ -284,3 +284,14 @@ That will surely help me.
 - [Snake Game - Final Version](https://github.com/felipesebben/100-days-of-code/blob/master/021_snake_game_pt2/main.py)
 - [Avocado Analytics](https://frs-avocado-analysis.herokuapp.com/)
 ***
+## **Day 23: March 25, 2022**
+**Today's Progress**:
+- Built a Pong game in Python.
+- Did a bunch of SQL queries focusing on datetime and date columns.
+- Plotted a municipality-level map of Brazil's 2018 presidential elections.
+
+**Thoughts**:
+- Nothing much. My shift key isn't working and that's really bumming me out. 
+
+**Link to Work**:
+- [Pong Game](https://github.com/felipesebben/100-days-of-code/blob/master/022_pong_game/main.py)
