@@ -295,3 +295,15 @@ That will surely help me.
 
 **Link to Work**:
 - [Pong Game](https://github.com/felipesebben/100-days-of-code/blob/master/022_pong_game/main.py)
+
+## **Day 24: March 26, 2022**
+**Today's Progress**:
+- Built a Turtle Crossing game in Python. The objective is to make the turtle cross a path in which cars (actually, randomly colored rectangles, to be precise) are passing by without getting ran over by.
+
+
+**Thoughts**:
+- It was really fun building this game! It challenged me in many ways. You are asked to think the tasks in a linear way, doing one after the other. It makes you think more orderly - one of the qualities of which I lack the most, I think. But I'm getting there.
+
+
+**Link to Work**:
+- [Turtle Crossing Game](https://github.com/felipesebben/100-days-of-code/blob/master/023_turtle_crossing/main.py)
