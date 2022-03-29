@@ -159,9 +159,9 @@ I also added a hover feature to a data visualization with plotly concerning recu
 ## **Day 14: March 16, 2022**
 **Today's Progress**:
 - Learned more about debugging techniques in Python.
-- Started building a Higher Lower game in Python. Basically, the user is given two random Instagram accounts and they must choose which one has more followers. If the guess is right, another account replaces the lower one, and the user must guess once more, and so on; if the guess is wrong, game over.
+- Started building a Higher Lower game in Python. Basically, the user is given two random Instagram accounts, and they must choose which one has more followers. If the guess is right, another account replaces the lower one, and the user must guess once more, and so on; if the guess is wrong, game over.
 - Improved a program designed to access GitHub's repo API, storing tasks within functions. Also, learned how to develop a testing program that makes sure that what is being printed is the actual data.
-- Explored two videogame datasets with Postgre. Learned how to do nested conditionalities and add a new column based on the average of other two columns.
+- Explored two video game datasets with Postgres. Learned how to do nested conditionality and add a new column based on the average of other two columns.
 - Finished creating a custom map for my Tableau visualization on the current Russian-Ukrainian conflict. Managed to set the countries labels on the European area, overcoming the issue with Russia being labeled on the center of the country and thus making it too far from Ukraine. Also, managed to set the circles in the map farther from labels, making it more readable. Also, created a nice shape as a refugee symbol.
 - Concluded my 3rd course on Tableau!
 
@@ -307,3 +307,21 @@ That will surely help me.
 
 **Link to Work**:
 - [Turtle Crossing Game](https://github.com/felipesebben/100-days-of-code/blob/master/023_turtle_crossing/main.py)
+* * *
+## **Day 25: March 28, 2022**
+**Today's Progress**:
+- After reviewing how to read, write and add files, rebuilt the Snake Game. Now, the highest score is stored in a separate file, which is loaded every time the program starts, showing the highest score, updating it in case the user sets a new one, which will subsequently be stored as the new highest score.
+- Built a Mail Merge program using the writing and reading functionalities. Basically, a list of names was loaded and used with a for loop to create custom letters, each one addressed to a particular name stored in this list.
+- Studied statistics. First, measures of central tendency - mean, median and mode. Second, measuring skewness (aka measures of asymmetry)
+- Studied intermediate-level SQL queries using SQL Server's Northwind sample database.
+- Studied storytelling and started preparing a checklist aimed at identifying the audience, the stakeholders, the goal, the context, and the challenges of a data analysis test.
+
+**Thoughts**:
+- Well, another day, another ride. Writing and reading files with python is an important step towards automation, which is something really cool, where the language seems to stand out.
+- SQL is fun, definitely one of my favorite languages. As you face more challenging demands, it gets more and more difficult yet attaining a solution becomes also more rewarding.
+- Am I in a Tableau plateau? Hope not! These storytelling classes are somewhat out of my comfort zone. Yet, regardless, the key is to tackle issues in small bites. 
+
+**Link to Work**:
+- [Snake Game with Saved Highest Score](https://github.com/felipesebben/100-days-of-code/blob/master/024_files_directions_paths_mail_merge/main_snk.py)
+- [Mail Merge](https://github.com/felipesebben/100-days-of-code/blob/master/024_files_directions_paths_mail_merge/main.py)
+* * *
