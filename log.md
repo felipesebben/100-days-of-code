@@ -353,4 +353,4 @@ That will surely help me.
 - Nothing much to say. A normal day.
 
 **Link to Work**:
-[NATO Alphabet](https://github.com/felipesebben/100-days-of-code/tree/master/026_list_comprehension_NATO_alphabet/NATO-alphabet-start)
+- [NATO Alphabet](https://github.com/felipesebben/100-days-of-code/tree/master/026_list_comprehension_NATO_alphabet/NATO-alphabet-start)
