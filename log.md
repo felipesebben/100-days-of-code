@@ -338,8 +338,19 @@ That will surely help me.
 - It was such a great day. Although I'd started it feeling a bit sleepy, after working with in Tableau, things seemed to progress really fast! I feel like this visualization is one of the best I've done so far and that it will help me in my data analysis career.
 - Also, I feel like my SQL skills are also improving. The secret is to move forward, just keep swimming and, whenever you get stuck, forget about your anxieties for a moment and remember that soon they'll go away (only to be replaced by new ones!)
 
-**Link to work**:
+**Link to Work**:
 - [US States Game](https://github.com/felipesebben/100-days-of-code/tree/master/025_CSV_DA_pandas/us_states_game)
 - [Squirrel Count in NY](https://github.com/felipesebben/100-days-of-code/blob/master/025_CSV_DA_pandas/working_csv_pandas.py)
 
 ***
+## **Day 27: March 30, 2022**
+**Today's Progress**:
+- Learned a great deal about list comprehension with python. Actually, learned about comprehension methods using lists, dicts and pandas dataframes.
+- Then, used these new features to improve previous codes, as in the US States game - incredible how you can transform some five lines of code into a single one!
+- Built a NATO Alplhabet program, with which the input word is transformed into a list using list comprehension. Then, it is compared with a NATO dict, with returns each letter of the input word in NATO coding.
+- Studied skewness in statistics
+**Thoughts**:
+- Nothing much to say. A normal day.
+
+**Link to Work**:
+[NATO Alphabet](https://github.com/felipesebben/100-days-of-code/tree/master/026_list_comprehension_NATO_alphabet/NATO-alphabet-start)
