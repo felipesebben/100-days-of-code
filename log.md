@@ -325,3 +325,21 @@ That will surely help me.
 - [Snake Game with Saved Highest Score](https://github.com/felipesebben/100-days-of-code/blob/master/024_files_directions_paths_mail_merge/main_snk.py)
 - [Mail Merge](https://github.com/felipesebben/100-days-of-code/blob/master/024_files_directions_paths_mail_merge/main.py)
 * * *
+## **Day 26: March 29, 2022**
+**Today's Progress**:
+- Learned more about how to read, write, and add contents to `.csv` files. Then - and although this is not a particularly new subject to me -, learned more about using `pandas` to analyse data in python.
+- Used this knowledge to analyse a simple dataset on the population of squirrels in NY Central Park.
+- Built a US Guess the State game using `pandas` features.
+- Studied `SQL` and joined two tables to figure out more about video game ratings and correlations between score reviews.
+- Advanced on my Tableau visualization of Ukraine's humanitarian crisis.
+- Studied (barely, I must say) merging branches in `git`.
+
+**Thoughts**:
+- It was such a great day. Although I'd started it feeling a bit sleepy, after working with in Tableau, things seemed to progress really fast! I feel like this visualization is one of the best I've done so far and that it will help me in my data analysis career.
+- Also, I feel like my SQL skills are also improving. The secret is to move forward, just keep swimming and, whenever you get stuck, forget about your anxieties for a moment and remember that soon they'll go away (only to be replaced by new ones!)
+
+**Link to work**:
+- [US States Game](https://github.com/felipesebben/100-days-of-code/tree/master/025_CSV_DA_pandas/us_states_game)
+- [Squirrel Count in NY](https://github.com/felipesebben/100-days-of-code/blob/master/025_CSV_DA_pandas/working_csv_pandas.py)
+
+***
