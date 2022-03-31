@@ -354,3 +354,18 @@ That will surely help me.
 
 **Link to Work**:
 - [NATO Alphabet](https://github.com/felipesebben/100-days-of-code/tree/master/026_list_comprehension_NATO_alphabet/NATO-alphabet-start)
+***
+## **Day 28: March 31, 2022**
+**Today's Progress**:
+- Learned more about functions with many positional arguments (*args) and with many keyword arguments(*kwargs)
+- Learned about the tkinter library and all its GUI classes and functions.
+- Built a `Miles to KM Converter` using `tkinter`.
+- Took my first steps as a data analyst!
+
+**Thoughts**:
+- Wow, what a great day! I'm not going to write much about my first work activities - they were all about planning, learning about the company's needs, the context in which it finds itself, and its challenges. Planning is something that should be given A LOT of prep time (duh)!
+- Learning and applying GUI concepts feels like moving up in this long, long, long Python learning curve. But it is really nice, because you finally get to see your programming in a nicer, more human, interface. You can see that possibilities become endless, and that you can make your code look in so many different ways!
+
+**Link to Work**:
+- [Miles to Km Converter](https://github.com/felipesebben/100-days-of-code/blob/master/027_GUI_tkinter/mile_to_km_converter.py)
+***
