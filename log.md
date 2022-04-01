@@ -369,3 +369,14 @@ That will surely help me.
 **Link to Work**:
 - [Miles to Km Converter](https://github.com/felipesebben/100-days-of-code/blob/master/027_GUI_tkinter/mile_to_km_converter.py)
 ***
+## **Day 29: April 1st, 2022**
+**Today's Progress**:
+- Built a Pomodoro App in Python!
+
+**Thoughts**:
+- Because of my new job, I still need to reorganize my schedule. But I've managed to finish the entire project, and it was quite satisfying! I mean, it is one of my favorite apps. Well, maybe "favorite" is pushing to far, but definitely one the most popular in my list.
+
+
+**Link to Work**:
+- [Pomodoro App](https://github.com/felipesebben/100-days-of-code/blob/master/028_pomodoro_app/main.py)
+***
