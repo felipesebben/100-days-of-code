@@ -97,6 +97,4 @@ password_button.grid(column=2, row=3)
 add_button = Button(text="Add", width=43, command=save)
 add_button.grid(column=1, row=4, columnspan=2)
 
-
-
 window.mainloop()
