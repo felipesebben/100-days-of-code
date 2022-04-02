@@ -369,7 +369,7 @@ That will surely help me.
 **Link to Work**:
 - [Miles to Km Converter](https://github.com/felipesebben/100-days-of-code/blob/master/027_GUI_tkinter/mile_to_km_converter.py)
 ***
-## **Day 29: April 1st, 2022**
+## **Day 29: April 1, 2022**
 **Today's Progress**:
 - Built a Pomodoro App in Python!
 
@@ -379,4 +379,14 @@ That will surely help me.
 
 **Link to Work**:
 - [Pomodoro App](https://github.com/felipesebben/100-days-of-code/blob/master/028_pomodoro_app/main.py)
+***
+## **Day 30: April 2, 2022**
+**Today's Progress**:
+- It is the thirtieth day of my #100DaysOfCode journey and I've built a GUI password manager. The user can store the name of the website for the password, its user name, and a password; they can either type a password or generate a random version, which is based on [Day 5's password generator](https://github.com/felipesebben/100-days-of-code/blob/master/005_password_generator/password_generator.py).
+
+**Thoughts**:
+- Man, I feel like I'm starting to see a silver lining in Python. I mean, I get the logic of behind each challenge quicker, and the solutions pop up faster in my mind. That's gotta be a good sign.
+
+**Link to Work**:
+- [Password Manager](https://github.com/felipesebben/100-days-of-code/blob/master/029_password_manager_GUI_interface/main.py)
 ***
