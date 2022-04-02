@@ -11,7 +11,10 @@ SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 reps = 0
 timer = None
-# ---------------------------- TIMER RESET ------------------------------- # 
+
+# ---------------------------- TIMER RESET ------------------------------- #
+
+
 def reset_timer():
     window.after_cancel(timer)
     canvas.itemconfig(timer_text, text="00:00")
@@ -20,6 +23,8 @@ def reset_timer():
     global reps
     reps = 0
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
+
+
 def start_timer():
     """Start count down timer."""
     global reps
@@ -42,6 +47,8 @@ def start_timer():
         title_label.config(text="Work!", font=(FONT_NAME, 40, 'bold'), fg=GREEN, bg=YELLOW)
 
 # ---------------------------- COUNTDOWN MECHANISM ------------------------------- # 
+
+
 def count_down(count):
     "Count down the remaining time."
 
@@ -62,6 +69,8 @@ def count_down(count):
         for _ in range(work_sessions):
             marks += "✔"
         check_marks.config(text=marks)
+
+
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
 window.title('Pomodoro')
