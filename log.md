@@ -390,3 +390,15 @@ That will surely help me.
 **Link to Work**:
 - [Password Manager](https://github.com/felipesebben/100-days-of-code/blob/master/029_password_manager_GUI_interface/main.py)
 ***
+## **Day 31: April 4, 2022**
+**Today's Progress**:
+- Studied how to handle exceptions and raise errors in Python. The first part dealt with those really exceptional cases in which `if` and `else` statements do not apply, as these happen more often - exceptions are exceptional! Raising errors has more to do about bringing the attention to a given value that numerically - for instance - would not break any rule, yet it would conflict with absurd contexts in reality, for instance. If you don't raise any error in a BMI converter, anyone could type their height as 300m, and the resulting BMI would be absurd for any human being. Therefore, raising errors in these circumstances have more to do with keeping the program functionality in check when inputs are out of a given range or scope. I also changed the NATO alphabet program by raising an error when the user typed any character that was not a letter stored in the program's dict.
+- Then, I have learned more about JavaScript Object Notation (JSON) files, how popular they are with many applications, and how to read, load, and update data in this format. After that, I used this knowledge to update the Password Manager. I added a "search" button, with which the user could type a website entry to look for the correspondent password - both would pop up in a different window. If this was the user's first time with the app, it would raise an error, as there would be no .json file with data previously created. I had thus to create exceptions that could handle these situations, as well as when the user typed a website name which did not exist in the file.
+
+**Thoughts**:
+- Well, quite a busy day! Enough typing, I have so much more to do, and the sun is still up! But I will have to review this content in the near future.
+
+**Link to Work**:
+- [NATO Alphabet Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/030_errors_exceptions_JSON/NATO_alphabet_errors/main.py)
+- [Password Manager Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/030_errors_exceptions_JSON/password_manager_JSON/main.py)
+***
