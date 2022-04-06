@@ -402,3 +402,13 @@ That will surely help me.
 - [NATO Alphabet Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/030_errors_exceptions_JSON/NATO_alphabet_errors/main.py)
 - [Password Manager Revisited](https://github.com/felipesebben/100-days-of-code/blob/master/030_errors_exceptions_JSON/password_manager_JSON/main.py)
 ***
+## **Day 32: April 6, 2022**
+**Today's Progress**:
+- Finished the second capstone project on a Flash Card app.
+
+**Thoughts**:
+- Hm, I feel as if I've been lagging behind regarding my python skills. But that should be normal - I'm working now, and time is in short supply. The rule is to move on and try to pick up from where we'd stopped before.
+
+**Link to Work**:
+- [Flash Card](https://github.com/felipesebben/100-days-of-code/blob/master/031_capstone_flash_card/main.py)
+***
