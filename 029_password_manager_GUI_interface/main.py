@@ -29,10 +29,10 @@ def generate_password():
 
 
 def save():
-   """Save passwords into a data.txt file."""
-   website = website_input.get()
-   email = email_input.get()
-   password = password_input.get()
+    """Save passwords into a data.txt file."""
+    website = website_input.get()
+    email = email_input.get()
+    password = password_input.get()
 
    if len(website) == 0:
        messagebox.showinfo(title="Hey!", message="It appears that you've left the website field empty.")
