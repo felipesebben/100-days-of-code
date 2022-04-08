@@ -424,3 +424,13 @@ That will surely help me.
 **Link to Work**:
 - [Email Birthday Wisher](https://github.com/felipesebben/100-days-of-code/blob/master/032_send_email_manage_datetimes/birthday_wisher/main.py)
 ***
+## **Day 34: April 8, 2022**
+**Today's Progress**:
+- Worked with APIs and developed an app that tracks when the ISS station is passing nearby my place. Then, the app sends me an email alerting me about the event.
+
+**Thoughts**:
+- Death in the family. No comments today.
+
+**Link to Work**:
+- [Working with APIs](https://github.com/felipesebben/100-days-of-code/tree/master/033_API_ISS_overhead_notifier)
+***
