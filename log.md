@@ -412,3 +412,15 @@ That will surely help me.
 **Link to Work**:
 - [Flash Card](https://github.com/felipesebben/100-days-of-code/blob/master/031_capstone_flash_card/main.py)
 ***
+## **Day 33: April 7, 2022**
+**Today's Progress**:
+- Learned about sending emails with Python by using the `smtlib` module.
+- Reviewed the `datatime` module and how to get hold of the year, month, date, and even millisecond of a datetime.
+- Built a Birthday Wisher, which automatically sends birthday greetings to whomever is celebrating their birthday on a given date.
+
+**Thoughts**:
+- Wow, someone please stop this train, I feel like the world is possible in Python, and I'm not able to get it all.
+
+**Link to Work**:
+- [Email Birthday Wisher](https://github.com/felipesebben/100-days-of-code/blob/master/032_send_email_manage_datetimes/birthday_wisher/main.py)
+***
