@@ -434,3 +434,15 @@ That will surely help me.
 **Link to Work**:
 - [Working with APIs](https://github.com/felipesebben/100-days-of-code/tree/master/033_API_ISS_overhead_notifier)
 ***
+## **Day 35: April 25, 2022**
+**Today's Progress**:
+- After some two weeks, back on track. 
+- Rebuilt the Quizzer app using APIs to generate random questions. This is quite an achievement, as there is no need to store 10 fixed questions in a list; instead, by using the `requests` module, I can tap into different trivia questions and create unexpected questions.
+- This app was also rebuilt on a GUI, thus eliminating the console-generated responses. As a result, the app is much more user-friendly and looks more functional and less like a developing tool.
+
+**Thoughts**:
+- Well, I feel like I've lagged behind in schedule, but that's ok. It's only a matter of days until I feel more comfortable coding once again.
+
+**Link to Work**:
+- [Quizzler App](https://github.com/felipesebben/100-days-of-code/tree/master/034_API_review_GUI_quiz/quizzler_app)
+***
