@@ -446,3 +446,15 @@ That will surely help me.
 **Link to Work**:
 - [Quizzler App](https://github.com/felipesebben/100-days-of-code/tree/master/034_API_review_GUI_quiz/quizzler_app)
 ***
+## **Day 36: April 26, 2022**
+**Today's Progress**:
+- Taking it easy, taking it slow. 
+- In Python, I've started day #34 project, which deals with API authentication. Ultimately, I'll be building an app that sends an SMS alerting the user about the weather - if there is rain in the forecast, a message is sent, advising they not to forget to bring an umbrella.
+- In Tableau, I've learned more about KPIs and how to make more complex examples using table calculations on table calculations. 
+- In my work, I mainly used MySQL to explore the company's database. I identified the tables that I will be using and, guess what, drew most of them by hand instead of just using draw.io (nothing against it, just felt like doing some manual labor haha). The idea is to identify relations between tables before moving on to the exploratory analysis phase.
+
+**Thoughts**:
+- Well, cannot complain. I mean, things could be moving faster, yet I've felt for a long time that I am slowly burning myself out. Maybe I should go with the flow, relax a little bit, try to do a good job and see where this approach takes me.
+
+**Link to Work**:
+- Sorry, work in maintenance today!
