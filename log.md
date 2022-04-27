@@ -458,3 +458,15 @@ That will surely help me.
 
 **Link to Work**:
 - Sorry, work in maintenance today!
+***
+## **Day 37: April 27, 2022**
+**Today's Progress**:
+- Started building the Rain Alert.
+- Learned more about how to manage databases in `MySQL`.
+
+**Thoughts**:
+- Well, my job is simply a never-ending lesson. Every day, there is something to learn, and boy, for every lesson, there is a bunch of stuff to do! As such, I have been spending most of my time trying to figure out how to get hold of the data that I will be using. This takes some time, but it is so rewarding, as you feel like what before used to be daunting tasks becoming routinely activities. Super excited!
+- Regarding my Python skills, today was also a good day to review what I had learned before. For instance, I had to remember how to slice dictionaries and lists to get hold of specific values from an API. If you don't get acquainted with this kind of activity, you can forget about mastering APIs altogether! For now, the program only warns the user if it will be raining in the next 12 hours, printing a message in the console. Tomorrow, hopefully I'll manage to deploy the entire project.
+
+**Link to Work**:
+- [Incomplete Rain Alert app](https://github.com/felipesebben/100-days-of-code/tree/master/035_API_keys_env_variables_send_SMS/rain_alert)
