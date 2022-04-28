@@ -1,7 +1,7 @@
 import requests
 
 OWM_Endpoint = 'https://api.openweathermap.org/data/2.5/onecall?'
-api_key = '6ba68fb40b286aaf305469e9e97608b3'
+api_key = {API_CODE_HERE}
 
 latitude = -30.034647
 longitude = -51.217659
