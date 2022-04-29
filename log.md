@@ -471,7 +471,7 @@ That will surely help me.
 **Link to Work**:
 - [Incomplete Rain Alert app](https://github.com/felipesebben/100-days-of-code/tree/master/035_API_keys_env_variables_send_SMS/rain_alert)
 ***
-## **Day 37: April 27, 2022**
+## **Day 38: April 29, 2022**
 **Today's Progress**:
 - Although the day was quite short due to a long distance travel, I've managed to accomplish quite a lot. I learned a new trick in Python Pandas: I learned how to pivot a table that concentrated values from different metrics in the same column (import, export, production values, and so on, in the same column). I feel really good!
 
@@ -480,3 +480,4 @@ That will surely help me.
 
 **Link to Work**:
 - Sorry, cannot share that today!
+***
