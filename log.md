@@ -481,3 +481,16 @@ That will surely help me.
 **Link to Work**:
 - Sorry, cannot share that today!
 ***
+## **Day 39: May 3, 2022**
+**Today's Progress**:
+- Well, I got covid, so there's that. But I'm feeling ok and the symptoms are quite mild.
+- Did a lot of work with `pandas` and managed to find some *very relevant* data to the company. I worked a lot with APIs, getting hold of 
+lots of data regarding international commodity trade. I still need to think about how I am going to get all the data that I need, but I believe that, once I overcome these challenges, this information can be really useful and valuable!
+- Finished building the Rain Alert app, which sends an SMS rain alert to the user, reminding him to bring an umbrella in case rain is foreseen in the future.
+
+**Thoughts**:
+- Really nice day. Although I am physically restricted to my apartment, still I managed to accomplish a lot just by researching, by moving forwards. Tomorrow, hopefully I'll have a clearer idea of how I will proceed with getting so much data from this database. Well, time will tell.
+
+**Link to Work**:
+- [Rain Alert](https://github.com/felipesebben/100-days-of-code/blob/master/035_API_keys_env_variables_send_SMS/rain_alert/main.py)
+***
