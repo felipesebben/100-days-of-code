@@ -494,3 +494,25 @@ lots of data regarding international commodity trade. I still need to think abou
 **Link to Work**:
 - [Rain Alert](https://github.com/felipesebben/100-days-of-code/blob/master/035_API_keys_env_variables_send_SMS/rain_alert/main.py)
 ***
+## **Day 40: May 4, 2022**
+**Today's Progress**:
+- Started to perform an Exploratory Data Analysis on the UN Comtrade dataset (well, a small part of it) just to get the gist of it. And it feels *great*. You get to know really well the data, and it feels as if you control it better, that you know its flaws, its promises and its limitations. Really nice. Also, I am this close to get hold of all the database's data, and that will be *fun*!
+- Finished my work with the Rain Alert API by hiding API authentication keys and tokens using environment variables, which allow you to hide your keys from the main.py code. A good choice if you're publishing your code in GitHub, for instance.
+
+**Thoughts**:
+- Well, I kinda mixed my thoughts with my progress, so I don't have anything else to write.
+
+**Link to Work**:
+- No link today! Things are slow now... but for a good reason.
+***
+## **Day 41: May 4, 2022**
+**Today's Progress**:
+- Finished performing yesterday's EDA.
+- Read a little about preparing dashboards in Tableau.
+
+**Thoughts**:
+- It might seem that I've accomplished little, but today was an important day! I've never done such a thorough analysis on a dataset, and it REALLY helped to get some initial yet decisive insights on the data. I learned about missing and duplicate values, non-numerical and numerical features, continuous and discrete values, correlations, and so on. It's like paving the way for a smoother process downstream.
+
+**Link to Work**:
+- Since this was work-related, I did not intend to publish it, but I think I will practice some EDA on some datasets that could benefit from it. We'll see.
+***
