@@ -505,7 +505,7 @@ lots of data regarding international commodity trade. I still need to think abou
 **Link to Work**:
 - No link today! Things are slow now... but for a good reason.
 ***
-## **Day 41: May 4, 2022**
+## **Day 41: May 5, 2022**
 **Today's Progress**:
 - Finished performing yesterday's EDA.
 - Read a little about preparing dashboards in Tableau.
@@ -515,4 +515,24 @@ lots of data regarding international commodity trade. I still need to think abou
 
 **Link to Work**:
 - Since this was work-related, I did not intend to publish it, but I think I will practice some EDA on some datasets that could benefit from it. We'll see.
+***
+## **Day 42: May 7 2022**
+**Today's Progress**:
+- Did a thorough EDA on Brazil 2018 Elections results. Got the data from a large datalake, Base dos Dados, by doing specific SQL queries.
+
+**Thoughts**:
+- Boy, I'm getting good at doing EDAs!
+
+**Link to Work**:
+- will post it soon.
+
+## **Day 43: May 8 2022**
+**Today's Progress**:
+- Built a Stock Market News Alert, which gets hold of financial data from Alpha Vintage's API. It requests yesterday's closing price value of a company's equity - in this case, Tesla's - and compares with the day before. If the price fluctuation is more than 5 percent negative or positive, the program will send an SMS message to the user, containing the precise percentage that the company's stock has fluctuated. Then, so that the user can get more information on why such fluctuation took place, the message also sends 3 recent news that have as a subject the company in question. This second part is done by tapping into a News API and requesting specific news on this company.
+
+**Thoughts**:
+- Well, quite a long day. I'm tired and don't feel like writing anymore.
+
+**Link to Work**:
+[Stock Market News Alert](https://github.com/felipesebben/100-days-of-code/blob/master/36_stock_trading_news_alert/stock_trade/main.py)
 ***
