@@ -6,9 +6,7 @@ import os
 load_dotenv(dotenv_path='file.env')
 
 TOKEN = os.getenv('TOKEN')
-print(TOKEN)
 USER_NAME = os.getenv('USER_NAME')
-print(USER_NAME)
 
 # USERNAME = 'sebbenf'
 GRAPH_ID = 'graph1'
@@ -67,8 +65,8 @@ update_posts_config = {
     'quantity': '67',
 }
 
-response = requests.put(url=update_posts_endpoint, json=update_posts_config, headers=headers)
-print(response.text)
+# response = requests.put(url=update_posts_endpoint, json=update_posts_config, headers=headers)
+# print(response.text)
 
 # Delete posts.
 
