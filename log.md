@@ -536,3 +536,14 @@ lots of data regarding international commodity trade. I still need to think abou
 **Link to Work**:
 [Stock Market News Alert](https://github.com/felipesebben/100-days-of-code/blob/master/36_stock_trading_news_alert/stock_trade/main.py)
 ***
+## **Day 44: May 9 2022**
+**Today's Progress**:
+- Did *lots* of data wrangling techniques in the UN Comtrade dataset.
+- Built a Habit Tracker app based on the Pixela API. Basically, it lets you post, update, and delete data as a tracker of some sort. You can track pretty much anything you want, provided that you update the data. I am tracking my daily exercise routine, so I update the amount of time spent every day exercising.
+
+**Thoughts**:
+- Man, I'm like SUPER TIRED. No time to think, let's rest!
+
+**Link to Work**:
+[Habit Tracker](https://github.com/felipesebben/100-days-of-code/blob/master/037_adv_auth_habit_tracking/main.py)
+***
