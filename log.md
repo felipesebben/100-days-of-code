@@ -536,7 +536,7 @@ lots of data regarding international commodity trade. I still need to think abou
 **Link to Work**:
 [Stock Market News Alert](https://github.com/felipesebben/100-days-of-code/blob/master/36_stock_trading_news_alert/stock_trade/main.py)
 ***
-## **Day 44: May 9 2022**
+## **Day 44: May 9, 2022**
 **Today's Progress**:
 - Did *lots* of data wrangling techniques in the UN Comtrade dataset.
 - Built a Habit Tracker app based on the Pixela API. Basically, it lets you post, update, and delete data as a tracker of some sort. You can track pretty much anything you want, provided that you update the data. I am tracking my daily exercise routine, so I update the amount of time spent every day exercising.
@@ -547,3 +547,12 @@ lots of data regarding international commodity trade. I still need to think abou
 **Link to Work**:
 [Habit Tracker](https://github.com/felipesebben/100-days-of-code/blob/master/037_adv_auth_habit_tracking/main.py)
 ***
+## **Day 45: May 10, 2022**
+**Today's Progress**:
+- Tons of data wrangling and data mining in my job. Tried to further explore the data and get insights from it, but that will have to wait until tomorrow.
+- Built an Exercise Tracking app. First, by using Nutritionix API, you post your physical info and the type of exercise you've done by using the API POST function. In my case, I tapped into it by using `requests.post()`. In return, the API gives you detailed info on how many calories, the average time you've spent, and the type of exercise you've done. All of that is done using a NLP AI system.
+
+**Thoughts**:
+- Well, what a busy day, I'm so tired. But at least I feel like my Python skills are levelling up quite quickly! It's pandas here, matplotlib there, requests over there... the list goes on.
+**Link to Work**:
+[Exercise Tracking]()
