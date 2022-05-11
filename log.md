@@ -555,4 +555,6 @@ lots of data regarding international commodity trade. I still need to think abou
 **Thoughts**:
 - Well, what a busy day, I'm so tired. But at least I feel like my Python skills are levelling up quite quickly! It's pandas here, matplotlib there, requests over there... the list goes on.
 **Link to Work**:
-[Exercise Tracking]()
+[Exercise Tracking](https://github.com/felipesebben/100-days-of-code/blob/master/038_exercise_tracking/main.py)
+***
+
