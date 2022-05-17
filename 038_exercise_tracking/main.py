@@ -24,7 +24,7 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-user_params ={
+user_params = {
     "query": exercise_query,
     'gender': GENDER,
     'weight_kg': WEIGHT,
@@ -60,8 +60,3 @@ for exercise in data['exercises']:
     )
 
     print(sheety_response.text)
-
-
-
-
-
