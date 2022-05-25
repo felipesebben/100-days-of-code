@@ -557,4 +557,14 @@ lots of data regarding international commodity trade. I still need to think abou
 **Link to Work**:
 [Exercise Tracking](https://github.com/felipesebben/100-days-of-code/blob/master/038_exercise_tracking/main.py)
 ***
+## **Day 46: May 25, 2022**
+**Today's Progress**:
+- Worked on data visualization with Tableau. Tried to plot a step chart, yet failed to format the axes as I wanted. Will have to continue tomorrow.
+- Almost finished the first part of my capstone project, a Flight Deal Finder, which uses several API requests and posts to develop an application that sends cheap flight deals to the user via a SMS message.
 
+**Thoughts**:
+- Oh boy, more than 2 weeks without reporting to my journal! Will have to compensate for it. Anyways, it's not that I haven't been coding or anything - it's just that work sometimes takes a heavy toll. But I'm happy. I just need to find the right balance, as I get frustrated when things at work don't progress as efficient as I wanted.
+
+**Link to Work:**
+- [Flight Deals Finder, Part 1](https://github.com/felipesebben/100-days-of-code/tree/master/039_capstone_p1_flight_deal_finder)
+***
