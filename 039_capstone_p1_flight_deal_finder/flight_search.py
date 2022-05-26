@@ -11,8 +11,9 @@ TEQUILA_API_KEY = os.getenv('TEQUILA_API_KEY')
 
 class FlightSearch:
     """Get information from Flight Search API."""
+
     def get_destination_code(self, city_name):
-        """Get IATA codes for cities."""
+        """Get IATA city codes."""
         location_endpoint = f"{TEQUILA_ENDPOINT}/locations/query"
         headers = {"apikey": TEQUILA_API_KEY}
         query = {
